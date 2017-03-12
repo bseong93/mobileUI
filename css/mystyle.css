@@ -1,0 +1,82 @@
+/*tr{
+  border-bottom: 1px solid #FFFFFF;
+  border-top: 1px solid #FFFFFF;  
+  height: 50px;
+}*/
+#header{  
+  font-family: Verdana;
+  font-size: 20px;
+  text-shadow: none;
+  /*background-color: rgb(33, 150, 243);
+  border-color: rgb(33, 150, 243);*/
+  background-color: #000030;
+  border-color: #000030;
+  color: white;    
+}
+
+#navbar a {
+  color: white;
+  background-color: #000030;
+  border-color: #000030;
+  text-shadow: none;
+}
+
+#header_content, #navbar li hr{  
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:0px;
+  padding-bottom:0px;
+}
+
+#navbar hr{
+  height: 1px;
+  background-color: rgb(53, 139, 202);
+  border-color: rgb(53, 139, 202);
+}
+
+
+.ui-content{
+  color:white;
+  /*border-color: rgb(72, 207, 174);*/
+  background-color: white;
+  text-shadow: none;
+}
+
+
+#refresh_btn{
+  width: 40px;
+  height: 40px;
+  background-color: #000030;
+  border-color: #000030;
+}
+
+#t1, #t2{
+  height: 120px;
+  background-color: rgb(168, 115, 176);
+  text-shadow: none;
+}
+#t3, #t4{
+  height: 120px;
+  background-color: rgb(16, 96, 174);
+  text-shadow: none;
+}
+#t5, #t6{
+  height: 120px;
+  background-color: white;
+  text-shadow: none;
+}
+
+#btn_table{
+  width: 100%;
+  text-align: center;
+}
+
+
+#footer{
+  font-family: Verdana;
+  font-size: 20px;
+  text-shadow: none;
+  background-color: black;
+  color: white;
+  border-color: black;
+}
